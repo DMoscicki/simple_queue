@@ -10,4 +10,4 @@ Example GET request:
 `curl -XPUT http://127.0.0.1/role?v=executive`
 
 When you make GET request you can use the timeout argument for waiting the answer:
-curl http://127.0.0.1/pet?timeout=N
+`curl http://127.0.0.1/pet?timeout=N`
